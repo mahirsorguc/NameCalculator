@@ -25,7 +25,4 @@ NameCalculator.Blazor project covers the Blazor implementation which was request
 
 NameCalculator.Calculator.UnitTests covers unit tests of C# side calculation.
 
-### Notes
-
-Unfortunately "Implementation 3" and tests for SQL calculation could not be applied.
 
